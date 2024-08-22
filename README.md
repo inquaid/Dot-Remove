@@ -22,7 +22,7 @@ pip install customtkinter
 
 ## Download and Use the Executable
 
-For a hassle-free experience, you can download the pre-built executable file. This allows you to use the program without needing to install Python or other dependencies. Simply download the `.exe` file from the [Releases](https://github.com/inquaid/Dot-Remove/blob/main/main.py) section and run it directly.
+For a hassle-free experience, you can download the pre-built executable file. This allows you to use the program without needing to install Python or other dependencies. Simply download the `.exe` file by click -> [Here](https://github.com/inquaid/Dot-Remove/blob/main/main.py) <- and run it directly.
 
 
 ## How to Use
