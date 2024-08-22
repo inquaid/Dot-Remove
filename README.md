@@ -42,7 +42,7 @@ For a hassle-free experience, you can download the pre-built executable file. Th
     - Click the "Browse" button to choose the folder containing the files you wish to delete.
 
 4. **Choose File Extensions**:
-    - Select from the preset file extensions (`.exe`, `.prob`) or choose "Custom" to enter your own extensions.
+    - enter your extensions (`.exe`, `.prob`) etc 
 
 5. **Delete Files**:
     - Click the "Delete Files" button to remove all files with the selected extensions from the chosen folder.
